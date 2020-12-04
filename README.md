@@ -4,3 +4,5 @@ This is a JetBrains Academy project which contains a financial loan-credit calcu
 - Topics practised: Argparse module, Load module
 
 - Technologies used: Python, Argparse, Load module
+
+![demo](loanCalcDemo.gif)
